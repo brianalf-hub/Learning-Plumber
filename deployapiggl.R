@@ -3,6 +3,7 @@ library("googlesheets4") # I am using the developing version 0.1.0.9000
 library("shiny")
 
 # You want to deploy an app in Shinyapps.io or other server
+
 # FIRST STEP----
 # Get the token an store it in a cache folder embedded in your app directory
 # designate project-specific cache
